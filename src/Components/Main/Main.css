@@ -1,0 +1,21 @@
+.navbar{
+      box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
+      background-color: aliceblue;
+}
+.navbar_head{
+      color: darkorange;
+}
+.navbar_link{
+      font-weight: 800;
+      font-family: Arial, Helvetica, sans-serif;
+}
+.navbar_link a{
+      margin-right: 30px;
+      text-decoration: none;
+      color: rgb(57, 52, 52);
+}
+.navbar_link a:hover{
+      color: green;
+      text-decoration: underline;
+      
+}

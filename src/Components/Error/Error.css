@@ -1,0 +1,31 @@
+.error{
+      background-color: #cfc8d6;
+      height: 100vh;
+}
+.error h1{
+      text-align: center;
+      padding-top: 130px;
+      font-size: 60px;
+      font-weight: bolder;
+}
+.error h3{
+      text-align: center;
+      margin-top: 20px;
+}
+.error button{
+      display: block;
+      margin: 40px auto;
+      background-color: #616161;
+      color: white;
+      padding: 15px 60px;
+      border: none;
+      border-radius: 5px;
+}
+.error a{
+      color: white;
+      text-decoration: none;
+      font-size: 17px;
+}
+.error a:hover{
+      color: white;
+}

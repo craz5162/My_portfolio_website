@@ -1,0 +1,56 @@
+.nana:hover{
+      color: rgb(240, 0, 0);
+      transform: translateY(-5px);
+      box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+      border-radius: 5px;
+}
+
+.back1{
+      height: 100%;
+      background-color: #cfc8d6;
+}
+
+.margin-1{
+      margin-top: 100px;
+}
+
+.a{
+      font-size: 35px;
+}
+
+/* .heding{
+      border: 2px solid green;
+      display: block;
+      padding: 20px;
+} */
+.heding{
+      margin-top: 110px;
+      color: black;
+}
+.para{
+      color: rgb(8, 7, 7);
+      margin-top: 20px;
+      text-align: justify;
+      font-size: 15px;
+      font-weight: 700;
+      border: 2px solid gray;
+      padding: 15px;
+      border-radius: 10px;
+      margin-bottom: 56px;
+      box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+.para:hover{
+      transform: translateY(5px);
+      box-shadow: inset 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+      background-color: #616161;
+      color: white;
+      
+}
+.arfat{
+      box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+.about_img{
+      width:295px;
+      height:320px;
+      margin-top: 30px;
+}

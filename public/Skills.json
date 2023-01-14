@@ -1,0 +1,9 @@
+[
+      {"id":1 ,"name" : "HTML5", "icon" :"fa-brands fa-html5"},
+      {"id":2,"name" : "CSS3", "icon" :"fa-brands fa-css3-alt"},
+      {"id":3,"name" : "BOOTSTRAP5", "icon" :"fa-brands fa-bootstrap"},
+      {"id":4,"name" : "JAVASCRIPT", "icon" :"fa-brands fa-square-js"},
+      {"id":5,"name" : "REACT", "icon" :"fa-brands fa-react"},
+      {"id":6,"name" : "REACT-ROUTER", "icon" :"fa-brands fa-react"},
+      {"id":7,"name" : "FIREBASE", "icon" :"fa-solid fa-fire"}
+]

@@ -1,0 +1,13 @@
+.banner-container{
+      background-color: #cfc8d6;
+}
+
+.banner-column{
+      background-color: #616161;
+}
+.home_img{
+      width: 100px;
+}
+.carousel-control-next, .carousel-control-prev{
+      display: none;
+}

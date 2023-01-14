@@ -1,0 +1,19 @@
+.skill{
+      background-color: #cfc8d6;
+      padding: 50px;
+      margin: 20px;
+      border-radius: 20px;
+      text-align: center;
+}
+.skill:hover{
+      color: white;
+      background-color: #616161ed;
+}
+.skill i{
+      font-size: 60px;
+      margin-bottom: 15px;
+}
+.skill h3{
+      font-size: 25px;
+      font-weight: bolder;
+}
